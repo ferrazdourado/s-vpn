@@ -1,4 +1,4 @@
-#include <myproject/sample_library.hpp>
+#include <s_vpn/sample_library.hpp>
 
 int factorial(int input) noexcept
 {
